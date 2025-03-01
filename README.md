@@ -13,7 +13,7 @@
 <div align="center">
 <h2>Tecnologias</h2>
 
-<picture style="display: flex; heigth: 96px; width: 96px; align-items: center; justify-content: center; gap: 25px;">
+<picture style="display: flex; heigth: 96px; width: 96px; align-items: center; justify-content: center; gap: 25px">
 <img src="./src/imagens/devicon--html5.png">
 <img src="./src/imagens/devicon--css3.png">
 <img src="./src/imagens/devicon--javascript.png">
